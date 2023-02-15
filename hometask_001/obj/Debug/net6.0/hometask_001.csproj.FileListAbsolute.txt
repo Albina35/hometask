@@ -1,0 +1,15 @@
+C:\Users\zinoc\task\hometask_001\bin\Debug\net6.0\hometask_001.exe
+C:\Users\zinoc\task\hometask_001\bin\Debug\net6.0\hometask_001.deps.json
+C:\Users\zinoc\task\hometask_001\bin\Debug\net6.0\hometask_001.runtimeconfig.json
+C:\Users\zinoc\task\hometask_001\bin\Debug\net6.0\hometask_001.dll
+C:\Users\zinoc\task\hometask_001\bin\Debug\net6.0\hometask_001.pdb
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\hometask_001.csproj.AssemblyReference.cache
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\hometask_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\hometask_001.AssemblyInfoInputs.cache
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\hometask_001.AssemblyInfo.cs
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\hometask_001.csproj.CoreCompileInputs.cache
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\hometask_001.dll
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\refint\hometask_001.dll
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\hometask_001.pdb
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\hometask_001.genruntimeconfig.cache
+C:\Users\zinoc\task\hometask_001\obj\Debug\net6.0\ref\hometask_001.dll
