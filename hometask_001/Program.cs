@@ -1,12 +1,21 @@
-﻿Console.Clear();
+﻿Console.WriteLine("Введите 3 числа:");
 int A = Convert.ToInt32(Console.ReadLine()); 
 int B = Convert.ToInt32(Console.ReadLine());
-if ( A >  B)
+int C = Convert.ToInt32(Console.ReadLine());
+
+
+int max = A;
+
+if ( B > max)
 {
-    Console.WriteLine("min = a");
+   max = B; 
 }
-else
+
+if (C > max)
 {
-    Console.WriteLine("max = b");
+    max = C;
 }    
+
+Console.WriteLine("Большее число", max);
+
 
